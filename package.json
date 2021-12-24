@@ -1,0 +1,13 @@
+{
+  "name": "vue-sfc-ts-rate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "cli.js",
+  "author": "Fukuda Naoto",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
